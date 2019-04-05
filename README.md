@@ -1,6 +1,6 @@
-# BlockTheSpot
+# Stopify*
 
-## Video, audio & banner adblock/skip for Spotify
+## Video, audio & banner adblock/skip
 
 **Current Version:** 0.13
 
@@ -17,19 +17,11 @@ This mod is designed to work with any version update. Please create an issue if 
 * Retains friend, vertical video and radio functionality
 * Unlocks the skip function for any track
 
-:warning: This mod is for the [**Desktop release**](https://www.spotify.com/download/windows/) of Spotify on Windows and **not the Microsoft Store version**.
-
 ### Install/Uninstall:
 
-#### Easy Installation:
-[Download](https://github.com/master131/BlockTheSpot/raw/master/install.bat) and run install.bat. You don't need to download any other file. 
-
-PS - It's not encrypted at all, it's a batch file with the mod embedded at the end (see the "MZ" header). You can always use the manual installation method.
-
 #### Manual Installation:
-[Download](https://github.com/master131/BlockTheSpot/raw/master/netutils.dll) and drop netutils.dll inside the Spotify installation folder (next to Spotify.exe).
-
-The default Spotify installation location is: %APPDATA%/Spotify (copy and paste into Explorer address bar)
+[Download] the dll and drop netutils.dll inside the installation folder 
+The default installation location is in: %APPDATA%
 
 #### Uninstall:
-To uninstall, simply delete netutils.dll from your Spotify installation (see above for the location).
+To uninstall, simply delete netutils.dll
